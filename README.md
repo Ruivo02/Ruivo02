@@ -1,4 +1,15 @@
-### Hi there 👋
+### Boas vindas ao meu perfil. 👋
+
+Meu nome é Joao Pedro Mendesz Szarovicz. 🥇🇧🇷
+- Estou aprendendo a programar com a plataforma Alura. 💻
+- Me interessam as linguagens de programação: JavaScript e Scratch.
+- Tambem estou aprendendo as linguagens de marcação: HTML e CSS.
+- Utilizo este espaço para salvar meus projetos e compartilhar meus codigos.
+
+### Meu email para contato e 📧
+joao.szarovicz@escola.pr.gov.br
+
+
 
 <!--
 **Ruivo02/Ruivo02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
