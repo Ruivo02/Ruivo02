@@ -9,6 +9,8 @@ Meu nome é Joao Pedro Mendesz Szarovicz. 🥇🇧🇷
 ### Meu email para contato e 📧
 joao.szarovicz@escola.pr.gov.br
 
+![](https://tenor.com/pt-BR/view/cat-typing-typing-on-computer-computer-work-laptop-gif-21481919)
+
 
 
 <!--
